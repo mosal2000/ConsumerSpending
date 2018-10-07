@@ -8,25 +8,25 @@
  * Mohammad Ronosentono
 
 # Project Description/Outline:
-We are going to analyze consumer data on entertainment.
+Bureau of Labor Statistics provides Consumer Expenditure Surveys in their website (https://www.bls.gov/). 
+We are going to analyze consumer spending data on entertainment. We will analyze the data based on age, race, region and educational level.
 
 # Research Questions to Answer:
- * Which entertainment category has seen the biggest increase/decrease?
-   * By year
+ * What are the trends from 2013-2017 for the entertainment category as a whole as a percentage of consumers’ incomes?
+ 
+ * Which entertainment subcategory has the highest consumer expenditure?
    * By age
    * By race
    * By region
    * By education level
 
- * Are there varieties in the entertainment category?
-   * By year
+ * What are the major differences in consumer spending within the entertainment subcategories based on the below categories?
    * By age
    * By race
    * By region
    * By education level
 
  * What percentage of income spent on entertainment? 
-   * By year
    * By age
    * By race
    * By region
