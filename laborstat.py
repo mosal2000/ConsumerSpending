@@ -1,7 +1,6 @@
 import requests
 import json
 import pandas as pd
-#import pprint as pp
 import api_keys
 import time
 
@@ -26,10 +25,7 @@ class BLSservice:
 		self.catalog = catalog
 		self.calculations = calculations
 		self.annualaverage = annualaverage
-		
-	def getStartYear(self):
-		return self.start_year
-		
+				
 	def get_data(self):
 		try:
 			self.data = json.dumps({"seriesid": self.series_id,
