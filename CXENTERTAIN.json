@@ -1,614 +1,1089 @@
-{'Results': {'series': [{'catalog': {'item': 'Entertainment',
+{'Results': {'series': [{'catalog': {'item': 'Total average annual '
+                                             'expenditures',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTRTAINLB0901M',
-                                     'series_title': 'Entertainment by Race: '
-                                                     'All Consumer Units',
+                                     'series_id': 'CXUTOTALEXPLB0402M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person under '
+                                                     'age 25',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '290'},
-                                                    'pct_changes': {'12': '10.0'}},
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '-809'},
+                                                    'pct_changes': {'12': '-2.3'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '3203',
+                                   'value': '33629',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTRTAINLB0901M'},
+                         'seriesID': 'CXUTOTALEXPLB0402M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0403M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person between '
+                                                     'age 25 and 34',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '2487'},
+                                                    'pct_changes': {'12': '4.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '55325',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0403M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0404M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person between '
+                                                     'age 35 and 44',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '2590'},
+                                                    'pct_changes': {'12': '3.9'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '69034',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0404M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0405M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person between '
+                                                     'age 45 and 54',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '2739'},
+                                                    'pct_changes': {'12': '3.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '73905',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0405M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0406M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person between '
+                                                     'age 55 and 64',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '3626'},
+                                                    'pct_changes': {'12': '5.9'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '64972',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0406M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0408M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person between '
+                                                     'age 65 and 74',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '4124'},
+                                                    'pct_changes': {'12': '8.1'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '54997',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0408M'},
+                        {'catalog': {'item': 'Total average annual '
+                                             'expenditures',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOTALEXPLB0409M',
+                                     'series_title': 'Total average annual '
+                                                     'expenditures by Age: '
+                                                     'Reference person over '
+                                                     'the age of 75',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Total average annual '
+                                                      'expenditures'},
+                         'data': [{'calculations': {'net_changes': {'12': '3158'},
+                                                    'pct_changes': {'12': '8.2'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '41849',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOTALEXPLB0409M'},
                         {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTRTAINLB0903M',
-                                     'series_title': 'Entertainment by Race: '
-                                                     'Race of rf. pers.: White '
-                                                     'and All Others(from '
-                                                     '2003)',
+                                     'series_id': 'CXUENTRTAINLB0402M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person under '
+                                                     'age 25',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '342'},
-                                                    'pct_changes': {'12': '10.9'}},
+                         'data': [{'calculations': {'net_changes': {'12': '34'},
+                                                    'pct_changes': {'12': '2.3'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '3475',
+                                   'value': '1488',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTRTAINLB0903M'},
+                         'seriesID': 'CXUENTRTAINLB0402M'},
                         {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTRTAINLB0904M',
-                                     'series_title': 'Entertainment by Race: '
-                                                     'Race of reference '
-                                                     'person: Asian(from 2003)',
+                                     'series_id': 'CXUENTRTAINLB0403M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person between '
+                                                     'age 25 and 34',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '379'},
-                                                    'pct_changes': {'12': '15.7'}},
+                         'data': [{'calculations': {'net_changes': {'12': '80'},
+                                                    'pct_changes': {'12': '3.1'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '2797',
+                                   'value': '2644',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTRTAINLB0904M'},
+                         'seriesID': 'CXUENTRTAINLB0403M'},
                         {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTRTAINLB0905M',
-                                     'series_title': 'Entertainment by Race: '
-                                                     'Race of ref. person: '
-                                                     'Black or African '
-                                                     'American',
+                                     'series_id': 'CXUENTRTAINLB0404M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person between '
+                                                     'age 35 and 44',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-59'},
-                                                    'pct_changes': {'12': '-3.5'}},
+                         'data': [{'calculations': {'net_changes': {'12': '492'},
+                                                    'pct_changes': {'12': '14.0'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '1643',
+                                   'value': '4001',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTRTAINLB0905M'},
-                        {'catalog': {'item': 'Entertainment: other supplies, '
-                                             'equip., & services',
+                         'seriesID': 'CXUENTRTAINLB0404M'},
+                        {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTEROTHLB0901M',
-                                     'series_title': 'Entertainment: other '
-                                                     'supplies, equip., & '
-                                                     'services by Race: All '
-                                                     'Consumer Units',
+                                     'series_id': 'CXUENTRTAINLB0405M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person between '
+                                                     'age 45 and 54',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '193'},
-                                                    'pct_changes': {'12': '47.5'}},
+                         'data': [{'calculations': {'net_changes': {'12': '410'},
+                                                    'pct_changes': {'12': '11.2'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '599',
+                                   'value': '4064',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTEROTHLB0901M'},
-                        {'catalog': {'item': 'Entertainment: other supplies, '
-                                             'equip., & services',
+                         'seriesID': 'CXUENTRTAINLB0405M'},
+                        {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTEROTHLB0903M',
-                                     'series_title': 'Entertainment: other '
-                                                     'supplies, equip., & '
-                                                     'services by Race: Race '
-                                                     'of rf. pers.: White and '
-                                                     'All Others(from 2003)',
+                                     'series_id': 'CXUENTRTAINLB0406M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person between '
+                                                     'age 55 and 64',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '250'},
-                                                    'pct_changes': {'12': '56.4'}},
+                         'data': [{'calculations': {'net_changes': {'12': '330'},
+                                                    'pct_changes': {'12': '10.6'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '693',
+                                   'value': '3444',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTEROTHLB0903M'},
-                        {'catalog': {'item': 'Entertainment: other supplies, '
-                                             'equip., & services',
+                         'seriesID': 'CXUENTRTAINLB0406M'},
+                        {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTEROTHLB0904M',
-                                     'series_title': 'Entertainment: other '
-                                                     'supplies, equip., & '
-                                                     'services by Race: Race '
-                                                     'of reference person: '
-                                                     'Asian(from 2003)',
+                                     'series_id': 'CXUENTRTAINLB0408M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person between '
+                                                     'age 65 and 74',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-183'},
-                                                    'pct_changes': {'12': '-44.1'}},
+                         'data': [{'calculations': {'net_changes': {'12': '477'},
+                                                    'pct_changes': {'12': '16.7'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '232',
+                                   'value': '3327',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTEROTHLB0904M'},
-                        {'catalog': {'item': 'Entertainment: other supplies, '
-                                             'equip., & services',
+                         'seriesID': 'CXUENTRTAINLB0408M'},
+                        {'catalog': {'item': 'Entertainment',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUENTEROTHLB0905M',
-                                     'series_title': 'Entertainment: other '
-                                                     'supplies, equip., & '
-                                                     'services by Race: Race '
-                                                     'of ref. person: Black or '
-                                                     'African American',
+                                     'series_id': 'CXUENTRTAINLB0409M',
+                                     'series_title': 'Entertainment by Age: '
+                                                     'Reference person over '
+                                                     'the age of 75',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-23'},
-                                                    'pct_changes': {'12': '-13.7'}},
+                         'data': [{'calculations': {'net_changes': {'12': '-40'},
+                                                    'pct_changes': {'12': '-2.4'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '145',
+                                   'value': '1657',
                                    'year': '2017'}],
-                         'seriesID': 'CXUENTEROTHLB0905M'},
+                         'seriesID': 'CXUENTRTAINLB0409M'},
                         {'catalog': {'item': 'Entertainment: fees and '
                                              'admissions',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUFEESADMLB0901M',
+                                     'series_id': 'CXUFEESADMLB0402M',
                                      'series_title': 'Entertainment: fees and '
-                                                     'admissions by Race: All '
-                                                     'Consumer Units',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '69'},
-                                                    'pct_changes': {'12': '10.1'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '750',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUFEESADMLB0901M'},
-                        {'catalog': {'item': 'Entertainment: fees and '
-                                             'admissions',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUFEESADMLB0903M',
-                                     'series_title': 'Entertainment: fees and '
-                                                     'admissions by Race: Race '
-                                                     'of rf. pers.: White and '
-                                                     'All Others(from 2003)',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '47'},
-                                                    'pct_changes': {'12': '6.4'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '782',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUFEESADMLB0903M'},
-                        {'catalog': {'item': 'Entertainment: fees and '
-                                             'admissions',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUFEESADMLB0904M',
-                                     'series_title': 'Entertainment: fees and '
-                                                     'admissions by Race: Race '
-                                                     'of reference person: '
-                                                     'Asian(from 2003)',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '475'},
-                                                    'pct_changes': {'12': '51.4'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '1400',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUFEESADMLB0904M'},
-                        {'catalog': {'item': 'Entertainment: fees and '
-                                             'admissions',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUFEESADMLB0905M',
-                                     'series_title': 'Entertainment: fees and '
-                                                     'admissions by Race: Race '
-                                                     'of ref. person: Black or '
-                                                     'African American',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '55'},
-                                                    'pct_changes': {'12': '21.3'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '313',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUFEESADMLB0905M'},
-                        {'catalog': {'item': 'Pets',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUPETSLB0901M',
-                                     'series_title': 'Pets by Race: All '
-                                                     'Consumer Units',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '127'},
-                                                    'pct_changes': {'12': '21.8'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '710',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUPETSLB0901M'},
-                        {'catalog': {'item': 'Pets',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUPETSLB0903M',
-                                     'series_title': 'Pets by Race: Race of '
-                                                     'rf. pers.: White and All '
-                                                     'Others(from 2003)',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '137'},
-                                                    'pct_changes': {'12': '20.3'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '811',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUPETSLB0903M'},
-                        {'catalog': {'item': 'Pets',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUPETSLB0904M',
-                                     'series_title': 'Pets by Race: Race of '
-                                                     'reference person: '
-                                                     'Asian(from 2003)',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '79'},
-                                                    'pct_changes': {'12': '42.5'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '265',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUPETSLB0904M'},
-                        {'catalog': {'item': 'Pets',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUPETSLB0905M',
-                                     'series_title': 'Pets by Race: Race of '
-                                                     'ref. person: Black or '
-                                                     'African American',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '70'},
-                                                    'pct_changes': {'12': '44.9'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '226',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUPETSLB0905M'},
-                        {'catalog': {'item': 'Toys, hobbies, and playground '
-                                             'equipment',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOYSLB0901M',
-                                     'series_title': 'Toys, hobbies, and '
-                                                     'playground equipment by '
-                                                     'Race: All Consumer Units',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '2'},
-                                                    'pct_changes': {'12': '1.3'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '159',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUTOYSLB0901M'},
-                        {'catalog': {'item': 'Toys, hobbies, and playground '
-                                             'equipment',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOYSLB0903M',
-                                     'series_title': 'Toys, hobbies, and '
-                                                     'playground equipment by '
-                                                     'Race: Race of rf. pers.: '
-                                                     'White and All '
-                                                     'Others(from 2003)',
-                                     'survey_abbreviation': 'CX',
-                                     'survey_name': 'Consumer Expenditure '
-                                                    'Survey',
-                                     'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-3'},
-                                                    'pct_changes': {'12': '-1.8'}},
-                                   'footnotes': [{}],
-                                   'latest': 'true',
-                                   'period': 'A01',
-                                   'periodName': 'Annual',
-                                   'value': '168',
-                                   'year': '2017'}],
-                         'seriesID': 'CXUTOYSLB0903M'},
-                        {'catalog': {'item': 'Toys, hobbies, and playground '
-                                             'equipment',
-                                     'measure_data_type': 'Expenditures',
-                                     'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOYSLB0904M',
-                                     'series_title': 'Toys, hobbies, and '
-                                                     'playground equipment by '
-                                                     'Race: Race of reference '
-                                                     'person: Asian(from 2003)',
+                                                     'admissions by Age: '
+                                                     'Reference person under '
+                                                     'age 25',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
                          'data': [{'calculations': {'net_changes': {'12': '35'},
-                                                    'pct_changes': {'12': '37.6'}},
+                                                    'pct_changes': {'12': '11.7'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '128',
+                                   'value': '333',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOYSLB0904M'},
-                        {'catalog': {'item': 'Toys, hobbies, and playground '
-                                             'equipment',
+                         'seriesID': 'CXUFEESADMLB0402M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOYSLB0905M',
-                                     'series_title': 'Toys, hobbies, and '
-                                                     'playground equipment by '
-                                                     'Race: Race of ref. '
-                                                     'person: Black or African '
-                                                     'American',
+                                     'series_id': 'CXUFEESADMLB0403M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person between '
+                                                     'age 25 and 34',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '19'},
-                                                    'pct_changes': {'12': '20.7'}},
+                         'data': [{'calculations': {'net_changes': {'12': '47'},
+                                                    'pct_changes': {'12': '8.2'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '111',
+                                   'value': '619',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOYSLB0905M'},
+                         'seriesID': 'CXUFEESADMLB0403M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUFEESADMLB0404M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person between '
+                                                     'age 35 and 44',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '159'},
+                                                    'pct_changes': {'12': '17.1'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '1090',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUFEESADMLB0404M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUFEESADMLB0405M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person between '
+                                                     'age 45 and 54',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '73'},
+                                                    'pct_changes': {'12': '7.4'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '1056',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUFEESADMLB0405M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUFEESADMLB0406M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person between '
+                                                     'age 55 and 64',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '13'},
+                                                    'pct_changes': {'12': '2.0'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '655',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUFEESADMLB0406M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUFEESADMLB0408M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person between '
+                                                     'age 65 and 74',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '71'},
+                                                    'pct_changes': {'12': '11.6'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '683',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUFEESADMLB0408M'},
+                        {'catalog': {'item': 'Entertainment: fees and '
+                                             'admissions',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUFEESADMLB0409M',
+                                     'series_title': 'Entertainment: fees and '
+                                                     'admissions by Age: '
+                                                     'Reference person over '
+                                                     'the age of 75',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '110'},
+                                                    'pct_changes': {'12': '39.6'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '388',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUFEESADMLB0409M'},
                         {'catalog': {'item': 'Audio and visual equipment and '
                                              'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTVAUDIOLB0901M',
+                                     'series_id': 'CXUTVAUDIOLB0402M',
                                      'series_title': 'Audio and visual '
                                                      'equipment and services '
-                                                     'by Race: All Consumer '
-                                                     'Units',
+                                                     'by Age: Reference person '
+                                                     'under age 25',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-100'},
+                         'data': [{'calculations': {'net_changes': {'12': '-55'},
                                                     'pct_changes': {'12': '-9.2'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '985',
+                                   'value': '542',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTVAUDIOLB0901M'},
+                         'seriesID': 'CXUTVAUDIOLB0402M'},
                         {'catalog': {'item': 'Audio and visual equipment and '
                                              'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTVAUDIOLB0903M',
+                                     'series_id': 'CXUTVAUDIOLB0403M',
                                      'series_title': 'Audio and visual '
                                                      'equipment and services '
-                                                     'by Race: Race of rf. '
-                                                     'pers.: White and All '
-                                                     'Others(from 2003)',
+                                                     'by Age: Reference person '
+                                                     'between age 25 and 34',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-88'},
-                                                    'pct_changes': {'12': '-7.9'}},
+                         'data': [{'calculations': {'net_changes': {'12': '-149'},
+                                                    'pct_changes': {'12': '-15.3'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '1021',
+                                   'value': '826',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTVAUDIOLB0903M'},
+                         'seriesID': 'CXUTVAUDIOLB0403M'},
                         {'catalog': {'item': 'Audio and visual equipment and '
                                              'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTVAUDIOLB0904M',
+                                     'series_id': 'CXUTVAUDIOLB0404M',
                                      'series_title': 'Audio and visual '
                                                      'equipment and services '
-                                                     'by Race: Race of '
-                                                     'reference person: '
-                                                     'Asian(from 2003)',
+                                                     'by Age: Reference person '
+                                                     'between age 35 and 44',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-28'},
-                                                    'pct_changes': {'12': '-3.5'}},
+                         'data': [{'calculations': {'net_changes': {'12': '-171'},
+                                                    'pct_changes': {'12': '-14.2'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '772',
+                                   'value': '1031',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTVAUDIOLB0904M'},
+                         'seriesID': 'CXUTVAUDIOLB0404M'},
                         {'catalog': {'item': 'Audio and visual equipment and '
                                              'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTVAUDIOLB0905M',
+                                     'series_id': 'CXUTVAUDIOLB0405M',
                                      'series_title': 'Audio and visual '
                                                      'equipment and services '
-                                                     'by Race: Race of ref. '
-                                                     'person: Black or African '
-                                                     'American',
+                                                     'by Age: Reference person '
+                                                     'between age 45 and 54',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
                                      'type_of_cases': 'Entertainment'},
-                         'data': [{'calculations': {'net_changes': {'12': '-180'},
-                                                    'pct_changes': {'12': '-17.5'}},
+                         'data': [{'calculations': {'net_changes': {'12': '-79'},
+                                                    'pct_changes': {'12': '-6.4'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '848',
+                                   'value': '1161',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTVAUDIOLB0905M'},
-                        {'catalog': {'item': 'Total average annual '
-                                             'expenditures',
+                         'seriesID': 'CXUTVAUDIOLB0405M'},
+                        {'catalog': {'item': 'Audio and visual equipment and '
+                                             'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOTALEXPLB0901M',
-                                     'series_title': 'Total average annual '
-                                                     'expenditures by Race: '
-                                                     'All Consumer Units',
+                                     'series_id': 'CXUTVAUDIOLB0406M',
+                                     'series_title': 'Audio and visual '
+                                                     'equipment and services '
+                                                     'by Age: Reference person '
+                                                     'between age 55 and 64',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
-                                     'type_of_cases': 'Total average annual '
-                                                      'expenditures'},
-                         'data': [{'calculations': {'net_changes': {'12': '2749'},
-                                                    'pct_changes': {'12': '4.8'}},
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-58'},
+                                                    'pct_changes': {'12': '-5.0'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '60060',
+                                   'value': '1093',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOTALEXPLB0901M'},
-                        {'catalog': {'item': 'Total average annual '
-                                             'expenditures',
+                         'seriesID': 'CXUTVAUDIOLB0406M'},
+                        {'catalog': {'item': 'Audio and visual equipment and '
+                                             'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOTALEXPLB0903M',
-                                     'series_title': 'Total average annual '
-                                                     'expenditures by Race: '
-                                                     'Race of rf. pers.: White '
-                                                     'and All Others(from '
-                                                     '2003)',
+                                     'series_id': 'CXUTVAUDIOLB0408M',
+                                     'series_title': 'Audio and visual '
+                                                     'equipment and services '
+                                                     'by Age: Reference person '
+                                                     'between age 65 and 74',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
-                                     'type_of_cases': 'Total average annual '
-                                                      'expenditures'},
-                         'data': [{'calculations': {'net_changes': {'12': '2850'},
-                                                    'pct_changes': {'12': '4.8'}},
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-47'},
+                                                    'pct_changes': {'12': '-4.2'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '62032',
+                                   'value': '1067',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOTALEXPLB0903M'},
-                        {'catalog': {'item': 'Total average annual '
-                                             'expenditures',
+                         'seriesID': 'CXUTVAUDIOLB0408M'},
+                        {'catalog': {'item': 'Audio and visual equipment and '
+                                             'services',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOTALEXPLB0904M',
-                                     'series_title': 'Total average annual '
-                                                     'expenditures by Race: '
-                                                     'Race of reference '
-                                                     'person: Asian(from 2003)',
+                                     'series_id': 'CXUTVAUDIOLB0409M',
+                                     'series_title': 'Audio and visual '
+                                                     'equipment and services '
+                                                     'by Age: Reference person '
+                                                     'over the age of 75',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
-                                     'type_of_cases': 'Total average annual '
-                                                      'expenditures'},
-                         'data': [{'calculations': {'net_changes': {'12': '5583'},
-                                                    'pct_changes': {'12': '8.3'}},
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-94'},
+                                                    'pct_changes': {'12': '-10.6'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '72850',
+                                   'value': '794',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOTALEXPLB0904M'},
-                        {'catalog': {'item': 'Total average annual '
-                                             'expenditures',
+                         'seriesID': 'CXUTVAUDIOLB0409M'},
+                        {'catalog': {'item': 'Pets',
                                      'measure_data_type': 'Expenditures',
                                      'seasonality': 'Not Seasonally Adjusted',
-                                     'series_id': 'CXUTOTALEXPLB0905M',
-                                     'series_title': 'Total average annual '
-                                                     'expenditures by Race: '
-                                                     'Race of ref. person: '
-                                                     'Black or African '
-                                                     'American',
+                                     'series_id': 'CXUPETSLB0402M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person under age 25',
                                      'survey_abbreviation': 'CX',
                                      'survey_name': 'Consumer Expenditure '
                                                     'Survey',
-                                     'type_of_cases': 'Total average annual '
-                                                      'expenditures'},
-                         'data': [{'calculations': {'net_changes': {'12': '990'},
-                                                    'pct_changes': {'12': '2.4'}},
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '6'},
+                                                    'pct_changes': {'12': '2.6'}},
                                    'footnotes': [{}],
                                    'latest': 'true',
                                    'period': 'A01',
                                    'periodName': 'Annual',
-                                   'value': '43117',
+                                   'value': '239',
                                    'year': '2017'}],
-                         'seriesID': 'CXUTOTALEXPLB0905M'}]},
- 'message': [],
- 'responseTime': 516,
+                         'seriesID': 'CXUPETSLB0402M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0403M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person between age 25 '
+                                                     'and 34',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-37'},
+                                                    'pct_changes': {'12': '-7.6'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '453',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0403M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0404M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person between age 35 '
+                                                     'and 44',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '243'},
+                                                    'pct_changes': {'12': '39.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '853',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0404M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0405M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person between age 45 '
+                                                     'and 54',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '303'},
+                                                    'pct_changes': {'12': '44.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '981',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0405M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0406M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person between age 55 '
+                                                     'and 64',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '123'},
+                                                    'pct_changes': {'12': '15.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '907',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0406M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0408M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person between age 65 '
+                                                     'and 74',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '90'},
+                                                    'pct_changes': {'12': '14.4'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '714',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0408M'},
+                        {'catalog': {'item': 'Pets',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUPETSLB0409M',
+                                     'series_title': 'Pets by Age: Reference '
+                                                     'person over the age of '
+                                                     '75',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-1'},
+                                                    'pct_changes': {'12': '-0.3'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '312',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUPETSLB0409M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0402M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'under age 25',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '42'},
+                                                    'pct_changes': {'12': '51.2'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '124',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0402M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0403M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'between age 25 and 34',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-5'},
+                                                    'pct_changes': {'12': '-2.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '178',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0403M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0404M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'between age 35 and 44',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '28'},
+                                                    'pct_changes': {'12': '12.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '248',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0404M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0405M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'between age 45 and 54',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-25'},
+                                                    'pct_changes': {'12': '-12.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '171',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0405M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0406M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'between age 55 and 64',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-7'},
+                                                    'pct_changes': {'12': '-4.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '139',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0406M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0408M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'between age 65 and 74',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '7'},
+                                                    'pct_changes': {'12': '5.2'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '141',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0408M'},
+                        {'catalog': {'item': 'Toys, hobbies, and playground '
+                                             'equipment',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUTOYSLB0409M',
+                                     'series_title': 'Toys, hobbies, and '
+                                                     'playground equipment by '
+                                                     'Age: Reference person '
+                                                     'over the age of 75',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '4'},
+                                                    'pct_changes': {'12': '9.5'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '46',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUTOYSLB0409M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0402M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person under '
+                                                     'age 25',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '6'},
+                                                    'pct_changes': {'12': '2.5'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '249',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0402M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0403M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person between '
+                                                     'age 25 and 34',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '225'},
+                                                    'pct_changes': {'12': '65.4'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '569',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0403M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0404M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person between '
+                                                     'age 35 and 44',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '233'},
+                                                    'pct_changes': {'12': '42.7'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '779',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0404M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0405M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person between '
+                                                     'age 45 and 54',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '138'},
+                                                    'pct_changes': {'12': '24.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '695',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0405M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0406M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person between '
+                                                     'age 55 and 64',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '259'},
+                                                    'pct_changes': {'12': '66.2'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '650',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0406M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0408M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person between '
+                                                     'age 65 and 74',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '356'},
+                                                    'pct_changes': {'12': '97.0'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '723',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0408M'},
+                        {'catalog': {'item': 'Entertainment: other supplies, '
+                                             'equip., & services',
+                                     'measure_data_type': 'Expenditures',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUENTEROTHLB0409M',
+                                     'series_title': 'Entertainment: other '
+                                                     'supplies, equip., & '
+                                                     'services by Age: '
+                                                     'Reference person over '
+                                                     'the age of 75',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Entertainment'},
+                         'data': [{'calculations': {'net_changes': {'12': '-60'},
+                                                    'pct_changes': {'12': '-34.1'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '116',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUENTEROTHLB0409M'},
+                        {'catalog': {'item': 'Income after taxes',
+                                     'measure_data_type': 'Consumer '
+                                                          'Characteristics',
+                                     'seasonality': 'Not Seasonally Adjusted',
+                                     'series_id': 'CXUINCAFTAXLB0402M',
+                                     'series_title': 'Income after taxes by '
+                                                     'Age: Reference person '
+                                                     'under age 25',
+                                     'survey_abbreviation': 'CX',
+                                     'survey_name': 'Consumer Expenditure '
+                                                    'Survey',
+                                     'type_of_cases': 'Consumer unit '
+                                                      'characteristics:'},
+                         'data': [{'calculations': {'net_changes': {'12': '-16673'},
+                                                    'pct_changes': {'12': '-35.8'}},
+                                   'footnotes': [{}],
+                                   'latest': 'true',
+                                   'period': 'A01',
+                                   'periodName': 'Annual',
+                                   'value': '29960',
+                                   'year': '2017'}],
+                         'seriesID': 'CXUINCAFTAXLB0402M'}]},
+ 'message': ['Requested Series list has been reduced to the system-allowed '
+             'limit of 50 series.'],
+ 'responseTime': 791,
  'status': 'REQUEST_SUCCEEDED'}
